@@ -11,7 +11,7 @@ const AIpicker = () => {
 
   return (
     <div className='absolute left-full ml-3'>
-      <div className={styles.a}>ddkdk</div>
+      <div className={styles.a}>ddkddk</div>
       <button
         onClick={(btn) => {
           const arrB =[-4, 0, 0];
